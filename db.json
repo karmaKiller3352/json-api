@@ -2,19 +2,19 @@
   "projects": [
     {
       "id": 1,
-      "url":"https://www.vk.com"
+      "url":"https://www.vk.com",
       "title":"ВКонтакте",
       "timespent":3600
     },
     {
       "id": 2,
-      "url":"https://www.facebook.com"
+      "url":"https://www.facebook.com",
       "title":"Facebook",
       "timespent":1200
     },
     {
       "id": 3,
-      "url":"https://www.yandex.ru"
+      "url":"https://www.yandex.ru",
       "title":"Yandex",
       "timespent":1800
     }
