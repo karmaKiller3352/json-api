@@ -1,8 +1,16 @@
 {
   "posts": [
-    {
+     {
       "id": 1,
-      "title": "hello"
+      "url": "https://www.facebook.com",
+      "title": "Facebook",
+      "timespent":1200
+    },
+    {
+      "id": 2,
+      "url": "https://www.yandex.ru",
+      "title": "Yandex",
+      "timespent":1800
     }
   ],
   "profile": {
